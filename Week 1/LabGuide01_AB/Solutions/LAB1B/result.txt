@@ -1,0 +1,12 @@
+Element Name  Value  Address
+------------  -----  --------
+*(nums + 0)      10  00B8FAEC
+*(nums + 1)      20  00B8FAF0
+*(nums + 2)      30  00B8FAF4
+*(nums + 3)      40  00B8FAF8
+*(nums + 4)      50  00B8FAFC
+*(nums + 5)      60  00B8FB00
+*(nums + 6)      70  00B8FB04
+*(nums + 7)      80  00B8FB08
+*(nums + 8)      90  00B8FB0C
+*(nums + 9)     100  00B8FB10

@@ -1,0 +1,5 @@
+Average highest degree is:28
+City     Total7       120
+34       56
+6       64
+35       105

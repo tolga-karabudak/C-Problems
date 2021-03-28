@@ -1,0 +1,15 @@
+Deniz 22 3.02
+Hasan 23 2.90
+Derya 24 3.58
+Sinan 23 3.21
+Ali 24 3.10
+Alya 26 3.00
+Burcu 25 2.65
+Omer 26 3.12
+Faruk 24 4.00
+Fikret 22 3.94
+Eray 23 2.45
+Sevinc 24 3.96
+Hale 26 2.21
+Elif 21 3.78
+Arzu 22 2.89

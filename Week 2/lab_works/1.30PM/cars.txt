@@ -1,0 +1,6 @@
+Peugeot 2016 75000
+Honda 2016 80000
+Mercedes 2010 85000
+Peugeot 2017 72000
+Honda 2012 71000
+Mercedes 2011 95000

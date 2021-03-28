@@ -1,0 +1,9 @@
+1  student point is 39.48
+2  student point is 57.93
+3  student point is 60.82
+4  student point is 60.86
+Avg of Midterm1 : 42.68 
+Avg of Midterm2 : 52.52 
+Avg of Final : 64.30 
+Maximum overall grade = 60.86
+Student with ID 4 got that grade.

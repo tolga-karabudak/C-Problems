@@ -1,0 +1,7 @@
+ali 25
+evren 12
+ayla 30
+hasan 18
+burak 27
+filiz 3
+olcay 18
